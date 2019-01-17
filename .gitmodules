@@ -1,0 +1,3 @@
+[submodule "xorca_test_data"]
+	path = xorca_test_data
+	url = git@github.com:willirath/xorca_test_data.git
